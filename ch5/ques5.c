@@ -9,7 +9,7 @@ int main(){
         b = (b - a)/10;
         c = i /100;
         int sum ;
-        
+        //power
         if( (a*a*a) + (b*b*b) + (c*c*c) == i ){
             printf("%d \n",i);
         }
